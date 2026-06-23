@@ -1,4 +1,4 @@
-\# AI University Course Scheduler
+# AI University Course Scheduler
 
 
 
@@ -6,47 +6,47 @@ A Python-based course scheduling system that automatically generates conflict-fr
 
 
 
-\## Features
+## Features
 
 
 
-\- Generates course schedules automatically
+- Generates course schedules automatically
 
-\- Uses Constraint Satisfaction Problem (CSP) solving
+- Uses Constraint Satisfaction Problem (CSP) solving
 
-\- Implements Backtracking Search
+- Implements Backtracking Search
 
-\- Uses MRV (Minimum Remaining Values) heuristic
+- Uses MRV (Minimum Remaining Values) heuristic
 
-\- Uses Forward Checking for constraint handling
+- Uses Forward Checking for constraint handling
 
-\- Prevents teacher and room conflicts
+- Prevents teacher and room conflicts
 
-\- Supports CSV-based course data input
+- Supports CSV-based course data input
 
-\- Interactive Tkinter GUI
+- Interactive Tkinter GUI
 
-\- Displays timetable and scheduling statistics
+- Displays timetable and scheduling statistics
 
-\- Visual timetable grid for easy viewing
-
-
-
-\## Technologies Used
+- Visual timetable grid for easy viewing
 
 
 
-\- Python
-
-\- Artificial Intelligence (CSP)
-
-\- Tkinter
-
-\- CSV File Handling
+## Technologies Used
 
 
 
-\## How to Run
+- Python
+
+- Artificial Intelligence (CSP)
+
+- Tkinter
+
+- CSV File Handling
+
+
+
+## How to Run
 
 
 
@@ -54,11 +54,11 @@ A Python-based course scheduling system that automatically generates conflict-fr
 
 2\. Place the course data CSV file in the project directory.
 
-3\. Run the main Python file:
+3\. Run the gui Python file:
 
 
 
 ```bash
 
-python main.py
+python gui.py
 
