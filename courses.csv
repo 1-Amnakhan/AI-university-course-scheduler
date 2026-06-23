@@ -1,0 +1,13 @@
+id,name,teacher,sessions_per_week
+AI,Artificial Intelligence,Sir Riaz,2
+OS,Operating Systems,Sir Hafiz,2
+DB,Database Systems,Sir Kamran,3
+SDA,Software Design & Architecture,Sir Ahmed,2
+ML,Machine Learning,Sir Riaz,2
+PROB,Probability & Statistics,Sir Naveed,2
+SE,Software Engineering,Sir Tariq,2
+CN,Computer Networks,Sir Bilal,2
+DS,Data Structures,Sir Usman,3
+LA,Linear Algebra,Sir Naveed,2
+OOP,Object Oriented Programming,Sir Kamran,2
+HCI,Human Computer Interaction,Sir Tariq,1
